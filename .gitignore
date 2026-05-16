@@ -1,0 +1,39 @@
+# Logs
+*.log
+
+# Output scan
+hasil/
+output/
+reports/
+
+# Temp
+tmp/
+temp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Go
+bin/
+pkg/
+
+# Linux
+*.swp
+*.bak
+
+# VSCode
+.vscode/
+
+# Wordlists besar
+wordlists/*.txt
+
+# Environment
+.env
+
+# Nuclei cache
+nuclei-templates/
+
+# OS files
+.DS_Store
+Thumbs.db

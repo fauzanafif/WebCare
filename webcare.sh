@@ -4,6 +4,7 @@
 # WebCare - Website Pentest Toolkit
 # Developer : Fauzan AfifLutiansah
 # Github    : fauzan123456.github.com
+# Version   : v.0.1
 # =====================================================
 
 # ================= COLOR =================
