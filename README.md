@@ -1,7 +1,7 @@
 # 🔨 WebCare
 
 <p align="center">
-  <img src="screenshots/banner.png" width="700">
+  <img src="assets/1.jpeg" width="700">
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ This toolkit integrates multiple popular security tools into one simple terminal
 ### Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/WebCare.git
+git clone https://github.com/fauzanafif/WebCare.git
 ```
 
 ### Move Directory
@@ -87,14 +87,6 @@ bash install.sh
 ```bash
 sudo ./webcare.sh
 ```
-
----
-
-## 📷 Screenshot
-
-<p align="center">
-  <img src="screenshots/banner.png" width="700">
-</p>
 
 ---
 
@@ -139,10 +131,10 @@ The developer is not responsible for any misuse or illegal activities performed 
 
 ## 👨‍💻 Developer
 
-Fauzan AfifLutiansah
+Fauzan Afif Lutfiansah
 
 GitHub:
-https://github.com/USERNAME
+https://github.com/fauzanafif
 
 ---
 
