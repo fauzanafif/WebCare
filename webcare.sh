@@ -7,7 +7,6 @@
 # Version : v0.1
 # =====================================================
 
-# ================= COLOR =================
 
 RED='\033[1;31m'
 GREEN='\033[1;32m'
@@ -18,14 +17,12 @@ WHITE='\033[1;37m'
 MAGENTA='\033[1;35m'
 NC='\033[0m'
 
-# ================= CHECK ROOT =================
 
 if [[ $EUID -ne 0 ]]; then
     echo -e "${RED}[!] Jalankan sebagai root${NC}"
     exit 1
 fi
 
-# ================= FUNCTION =================
 
 save_folder(){
     mkdir -p hasil
@@ -114,7 +111,6 @@ EOF
     echo ""
 }
 
-# ================= START =================
 
 save_folder
 banner
